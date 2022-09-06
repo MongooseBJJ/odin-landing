@@ -1,0 +1,27 @@
+#CTA {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    width: auto;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+div.container.col-4 {
+    margin-top: 6em;
+    padding-bottom: 5em;
+}
+
+#para {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+#info {
+    margin-top: 3em;
+}
+
+nav {
+    font-size: 24px;
+}
